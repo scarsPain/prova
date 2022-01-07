@@ -1,0 +1,7 @@
+organization=scarspain
+projectKey=scarsPain_prova
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.25862
+dashboardUrl=https://sonarcloud.io/dashboard?id=scarsPain_prova
+ceTaskId=AX40DWSL4lQVUIE5stlz
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX40DWSL4lQVUIE5stlz

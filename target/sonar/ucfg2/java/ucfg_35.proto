@@ -1,0 +1,320 @@
+
+4com.example.mycalculator.MyCalculator#analyzeOp(CI)V^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.javaª ª("7*Ò
+2^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java¿ Ã(¶
+³
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.javaÀ À(
+%28java.lang.Double"__id*2*0'
+%com.example.mycalculator.MyCalculator"
+resÁ
+¾
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.javaÀ= À(D
+%29java.lang.StringBuilder"__id*6*4'
+%com.example.mycalculator.MyCalculator"	
+nextNumô
+ñ
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.javaÀ. À(E
+%30java.lang.String">java.lang.String#valueOf(Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String* 
+
+%29java.lang.StringBuilderÖ
+Ó
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.javaÀ À(F
+%31double"1java.lang.Double#parseDouble(Ljava/lang/String;)D*"
+java.lang.Double*
+
+%30java.lang.Stringœ™
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.javaÁ" Á(/
+%32java.lang.StringBuilder"java.lang.StringBuilder¯
+¬
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.javaÁ Á(1
+%33"!java.lang.StringBuilder#<init>()V* 
+
+%32java.lang.StringBuilderÁ
+¾
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.javaÁ Á(14'
+%com.example.mycalculator.MyCalculator"	
+nextNum"__id* 
+
+%32java.lang.StringBuilderÉ
+Æ
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.javaÂ Â(/
+%34java.lang.String"-java.lang.String#valueOf(C)Ljava/lang/String;*"
+java.lang.String*
+""¹
+¶
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.javaÂ Â(/3'
+%com.example.mycalculator.MyCalculator"
+currOp"__id*
+
+%34java.lang.String*
+0*Ò
+3^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.javaº ¾(¶
+³
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java» »(
+%21java.lang.Double"__id*2*0'
+%com.example.mycalculator.MyCalculator"
+resÁ
+¾
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java»= »(D
+%22java.lang.StringBuilder"__id*6*4'
+%com.example.mycalculator.MyCalculator"	
+nextNumô
+ñ
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java». »(E
+%23java.lang.String">java.lang.String#valueOf(Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String* 
+
+%22java.lang.StringBuilderÖ
+Ó
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java» »(F
+%24double"1java.lang.Double#parseDouble(Ljava/lang/String;)D*"
+java.lang.Double*
+
+%23java.lang.Stringœ™
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java¼" ¼(/
+%25java.lang.StringBuilder"java.lang.StringBuilder¯
+¬
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java¼ ¼(1
+%26"!java.lang.StringBuilder#<init>()V* 
+
+%25java.lang.StringBuilderÁ
+¾
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java¼ ¼(14'
+%com.example.mycalculator.MyCalculator"	
+nextNum"__id* 
+
+%25java.lang.StringBuilderÉ
+Æ
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java½ ½(/
+%27java.lang.String"-java.lang.String#valueOf(C)Ljava/lang/String;*"
+java.lang.String*
+""¹
+¶
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java½ ½(/3'
+%com.example.mycalculator.MyCalculator"
+currOp"__id*
+
+%27java.lang.String*
+0*Ò
+4^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.javaµ ¹(¶
+³
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java¶ ¶(
+%14java.lang.Double"__id*2*0'
+%com.example.mycalculator.MyCalculator"
+resÁ
+¾
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java¶= ¶(D
+%15java.lang.StringBuilder"__id*6*4'
+%com.example.mycalculator.MyCalculator"	
+nextNumô
+ñ
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java¶. ¶(E
+%16java.lang.String">java.lang.String#valueOf(Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String* 
+
+%15java.lang.StringBuilderÖ
+Ó
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java¶ ¶(F
+%17double"1java.lang.Double#parseDouble(Ljava/lang/String;)D*"
+java.lang.Double*
+
+%16java.lang.Stringœ™
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java·" ·(/
+%18java.lang.StringBuilder"java.lang.StringBuilder¯
+¬
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java· ·(1
+%19"!java.lang.StringBuilder#<init>()V* 
+
+%18java.lang.StringBuilderÁ
+¾
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java· ·(14'
+%com.example.mycalculator.MyCalculator"	
+nextNum"__id* 
+
+%18java.lang.StringBuilderÉ
+Æ
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java¸ ¸(/
+%20java.lang.String"-java.lang.String#valueOf(C)Ljava/lang/String;*"
+java.lang.String*
+""¹
+¶
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java¸ ¸(/3'
+%com.example.mycalculator.MyCalculator"
+currOp"__id*
+
+%20java.lang.String*
+0*”
+5^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java° ´(À
+½
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java±= ±(D
+%6java.lang.StringBuilder"__id*6*4'
+%com.example.mycalculator.MyCalculator"	
+nextNumò
+ï
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java±. ±(E
+%7java.lang.String">java.lang.String#valueOf(Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+
+%6java.lang.StringBuilderÔ
+Ñ
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java± ±(F
+%8double"1java.lang.Double#parseDouble(Ljava/lang/String;)D*"
+java.lang.Double*
+
+%7java.lang.Stringµ
+²
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java± ±(
+%9java.lang.Double"__id*2*0'
+%com.example.mycalculator.MyCalculator"
+resž
+›
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java± ±(F
+%10"__concat*
+
+%9java.lang.Double*
+
+%8double¤
+¡
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java± ±(F0'
+%com.example.mycalculator.MyCalculator"
+res"__id*
+
+%10œ™
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java²" ²(/
+%11java.lang.StringBuilder"java.lang.StringBuilder¯
+¬
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java² ²(1
+%12"!java.lang.StringBuilder#<init>()V* 
+
+%11java.lang.StringBuilderÁ
+¾
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java² ²(14'
+%com.example.mycalculator.MyCalculator"	
+nextNum"__id* 
+
+%11java.lang.StringBuilderÉ
+Æ
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java³ ³(/
+%13java.lang.String"-java.lang.String#valueOf(C)Ljava/lang/String;*"
+java.lang.String*
+""¹
+¶
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java³ ³(/3'
+%com.example.mycalculator.MyCalculator"
+currOp"__id*
+
+%13java.lang.String*
+0*Û
+6^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java­ ­(Á
+¾
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java­$ ­() 
+%2javafx.scene.control.Label"__id*4*2'
+%com.example.mycalculator.MyCalculator"
+labeläá
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java­$ ­(3
+%3java.lang.String"8javafx.scene.control.Labeled#getText()Ljava/lang/String;*"
+ 
+%2javafx.scene.control.Label2	getText()¹¶
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java­$ ­(=
+
+%4char"java.lang.String#charAt(I)C*
+
+%3java.lang.String*
+""2	charAt(I)Î
+Ë
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java­ ­(>
+%5java.lang.String"-java.lang.String#valueOf(C)Ljava/lang/String;*"
+java.lang.String*
+
+
+%4char¸
+µ
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java­ ­(>3'
+%com.example.mycalculator.MyCalculator"
+currOp"__id*
+
+%5java.lang.String*
+0*ƒ
+7^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java¬ ¬(¸
+µ
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java¬ ¬(
+%0java.lang.String"__id*5*3'
+%com.example.mycalculator.MyCalculator"
+currOpÚ×
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java¬ ¬(
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String* 2equals(Ljava/lang/Object;)*
+6
+1*|
+0 "u
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.javaÇ Ç(
+implicit return*­
+1^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java¯ ¯(¹
+¶
+^
+R/Users/pain/Desktop/prova/src/main/java/com/example/mycalculator/MyCalculator.java¯ ¯(
+%35java.lang.String"__id*5*3'
+%com.example.mycalculator.MyCalculator"
+currOp*
+2
+3
+4
+5:
+"":
+""B)'
+%com.example.mycalculator.MyCalculator
