@@ -1,4 +1,4 @@
-module com.example.prova {
+module com.example.mycalculator {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.web;
@@ -10,6 +10,6 @@ module com.example.prova {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
 
-    opens com.example.prova to javafx.fxml;
-    exports com.example.prova;
+    opens com.example.mycalculator to javafx.fxml;
+    exports com.example.mycalculator;
 }
